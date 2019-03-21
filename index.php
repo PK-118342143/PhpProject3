@@ -13,11 +13,11 @@ p    {color: red;}
      
     <h1>My Home Page</h1> 
   <br>  
-  <a href="http://localhost:8000/CV.html">Visit My CV page</a> 
+  <a href="CV.html">Visit My CV page</a> 
   </br>
   
   <br>
-  <a href ="http://localhost:8000/tiltedpage_scroll_demo.html"> Visit My Interests Page</a>
+  <a href ="tiltedpage_scroll_demo.html"> Visit My Interests Page</a>
   </br>
     
   <br>
